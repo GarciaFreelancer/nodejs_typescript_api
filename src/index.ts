@@ -1,1 +1,3 @@
-console.log('Setup initial');
+import { App } from './app';
+
+new App().getApp();
